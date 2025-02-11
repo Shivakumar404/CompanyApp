@@ -1,0 +1,1 @@
+Output of git log --oneline --graph --all after the above commits.
